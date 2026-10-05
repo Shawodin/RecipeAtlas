@@ -1,0 +1,17 @@
+## Interface: 30300
+## Title: |cffffd200Рецептный компас|r
+## Notes: Неизученные рецепты, где их взять и метки на карте
+## Author: JuraGood
+## X-License: GPL-3.0
+## X-Category: Tradeskill
+## Version: 0.5.2
+## SavedVariablesPerCharacter: RecipeAtlasDB
+
+Libs\LibStub\LibStub.lua
+Libs\Astrolabe\Load.xml
+RecipeAtlasData.lua
+Core.lua
+UI.lua
+Map.lua
+Tooltip.lua
+Tracker.lua

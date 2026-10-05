@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# build inputs (big, downloaded separately — see README)
+.recipeatlas-work/
+*.sqlite
+*.dbc
+
+# release archives
+*.zip
+*.rar
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
